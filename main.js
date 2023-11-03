@@ -521,7 +521,7 @@ function highlightFirstThumbnail() {
 	}
 }
 
-// Function to synchronize the carousel with the thumbnails
+// Function to synchronise the carousel with the thumbnails
 function syncCarouselWithThumbnails() {
 	const thumbnails = document.querySelectorAll('.thumbnails__image');
 	const carousel = document.querySelector('.carousel-thumbnails');
@@ -591,7 +591,7 @@ function updateGalleryAndDescription(category) {
 				alt: "Image 3 for analogous",
 				src: "/images/analogous3.png" //--Source: https://www.pinterest.com.au/alecrimrhosmaryn/web-design-images/
 			}],
-			description: "Here are some examples of an analogous colour scheme: orange, yellow, and red. The seamless blending of these hues creates a radiant display, much like the image of freshly sliced oranges against a warm backdrop, where the fiery reds meld effortlessly with the sunny yellows. <br><br> This harmony can also be visualized in a golden-hued sunrise slowly transitioning into a brilliant crimson or the sight of autumn leaves that vary from amber to deep scarlet, fluttering in unison. <br><br> Each portrayal encapsulates the lively yet cohesive essence that such closely related colours impart when combined."
+			description: "Here are some examples of an analogous colour scheme: orange, yellow, and red. The seamless blending of these hues creates a radiant display, much like the image of freshly sliced oranges against a warm backdrop, where the fiery reds meld effortlessly with the sunny yellows. <br><br> This harmony can also be visualised in a golden-hued sunrise slowly transitioning into a brilliant crimson or the sight of autumn leaves that vary from amber to deep scarlet, fluttering in unison. <br><br> Each portrayal encapsulates the lively yet cohesive essence that such closely related colours impart when combined."
 		},
 		'split-complimentary': {
 			images: [{
@@ -604,7 +604,7 @@ function updateGalleryAndDescription(category) {
 				alt: "Image 3 for split-complimentary",
 				src: "/images/split-complimentary3.png" //--Source: https://www.pinterest.com.au/alecrimrhosmaryn/web-design-images/
 			}],
-			description: "Here are some examples of a split complementary colour scheme: orange, yellow, and blue. This approach uses one base colour and two secondary colours adjacent to its complementary, providing a rich contrast and harnessing some of the harmony seen in analogous hues. <br><br> The lush vibrancy of a painted pear, bursting with shades of orange and radiant yellow against a deep blue backdrop, illustrates this beautifully. Similarly, the zesty slices of grapefruit and lemon laid upon a cool blue surface exemplify the dynamic interplay of these three shades. Finally, the captivating artwork of a woman enveloped by a dance of orange and yellow flames, set against the tranquillity of a blue environment, epitomizes the exquisite balance and visual appeal this colour scheme can offer. <br><br> Each of these instances underlines the aesthetic potency and inherent equilibrium achieved when these three colours intertwine."
+			description: "Here are some examples of a split complementary colour scheme: orange, yellow, and blue. This approach uses one base colour and two secondary colours adjacent to its complementary, providing a rich contrast and harnessing some of the harmony seen in analogous hues. <br><br> The lush vibrancy of a painted pear, bursting with shades of orange and radiant yellow against a deep blue backdrop, illustrates this beautifully. Similarly, the zesty slices of grapefruit and lemon laid upon a cool blue surface exemplify the dynamic interplay of these three shades. Finally, the captivating artwork of a woman enveloped by a dance of orange and yellow flames, set against the tranquillity of a blue environment, epitomises the exquisite balance and visual appeal this colour scheme can offer. <br><br> Each of these instances underlines the aesthetic potency and inherent equilibrium achieved when these three colours intertwine."
 		},
 		'triadic': {
 			images: [{
